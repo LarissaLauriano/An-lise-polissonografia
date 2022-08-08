@@ -1,0 +1,18 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+. Adaptações na primeira etapa do código, ajustando os repositórios de entrada e saída
+
+. Baixando os datasets do NSRR
+    -> https://github.com/nsrr/nsrr-gem/blob/master/README.md#prerequisites
+        . Instalando o Ruby
